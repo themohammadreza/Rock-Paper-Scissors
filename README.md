@@ -77,7 +77,7 @@ random
 Simply execute the script using Python 3:
 
 ```sh
-python main.py
+python src/main.py
 ```
 
 ### Game Flow
